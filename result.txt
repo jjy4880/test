@@ -1,0 +1,14 @@
+성적결과표
+
+전체 평균 : 70.24
+
+개인별 학점
+bill       : D
+hana       : B
+jack       : C
+jain       : D
+john       : F
+steve      : B
+
+수료생
+hana, jack, steve
