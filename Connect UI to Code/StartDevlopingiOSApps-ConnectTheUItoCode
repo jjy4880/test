@@ -19,6 +19,8 @@ AppDelegate.swift
     -AppDelegate 클래스는 UIApplicationDelegate 프로토콜을 채택. 앱을 설정하고, 상태변경에 응답하고 이벤트 처리하는 여러가지 방법을 정의한다.
 
 
+Application….]
+
 ViewController.swift 
 
     - UIViewController 를 상속. 
@@ -39,7 +41,7 @@ ViewController - 최상위 뷰
 TextField , Label , Button - 하위뷰
 
 
-
+ㄹ
 Interface 미리보기 - Assistant Editor -> Editor selector bar (Automatic) -> preview
 하단 회전버튼(가로회전)
 Assistant Editor 하단에서 시뮬레이터 기종 변경도 가능.
@@ -63,7 +65,7 @@ Rotate Left : Command <-
 
 
 
-
+ㄹㄹㄹ
 Connect To UI 
 Stroyboard 한 화면은 하나의 뷰컨트롤러를 나타냄. 뷰 컨트롤러는 앱의 동작을 구현 ,앱의 데이타를 캡슐화 하는 앱데이터 모델과ㅏ 데이터를 표시하는 뷰 사이의 정보 흐름을 조정하고, 회전시 변경사항, 앱 호출 , 사용자 응답 . 
 
